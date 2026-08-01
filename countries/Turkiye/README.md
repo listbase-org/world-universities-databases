@@ -1,0 +1,244 @@
+# Turkiye — World Universities Database
+
+192 records for **Turkiye** (Turkiye).
+
+## Download
+
+| Format | Link |
+|---|---|
+| **SQLite / SQL** (all countries) | [GitHub Releases](../../releases) |
+| **Excel / CSV / PDF** (Turkiye only) | [listbase.org](https://listbase.org/en/education/) |
+
+## Preview
+
+| name | country | alpha_two_code | state_province | domains | web_pages |
+| --- | --- | --- | --- | --- | --- |
+| Adnan Menderes University | Turkiye | TR |  | adu.edu.tr | http://www.adu.edu.tr/ |
+| Ahi Evran University | Turkiye | TR |  | ahievran.edu.tr | http://www.ahievran.edu.tr/ |
+| Akdeniz University | Turkiye | TR |  | akdeniz.edu.tr | http://www.akdeniz.edu.tr/ |
+| Anadolu University | Turkiye | TR |  | anadolu.edu.tr | http://www.anadolu.edu.tr/ |
+| Ankara University | Turkiye | TR |  | ankara.edu.tr | http://www.ankara.edu.tr/ |
+| Istanbul Arel University | Turkiye | TR |  | arel.edu.tr | http://www.arel.edu.tr/ |
+| Atatürk University | Turkiye | TR |  | atauni.edu.tr | http://www.atauni.edu.tr/ |
+| University of Kyrenia | Turkiye | TR |  | std.kyrenia.edu.tr, kyrenia.edu.tr | https://kyrenia.edu.tr |
+| Atilim University | Turkiye | TR |  | atilim.edu.tr | http://www.atilim.edu.tr/ |
+| Bahcesehir University | Turkiye | TR |  | bahcesehir.edu.tr | http://www.bahcesehir.edu.tr/ |
+| ... | ... | ... | ... | ... | ... |
+
+*Showing 10 of 192 records*
+
+## Schema
+
+```sql
+SELECT * FROM universities WHERE country = 'Turkiye';
+```
+
+## Stats
+
+- **192** records
+- Country: **Turkiye** (Turkiye)
+
+## Browse & Download
+
+📊 **[Download Turkiye data as Excel/CSV/PDF](https://listbase.org/en/education/)**
+
+---
+
+Part of [World Universities Database](https://github.com/listbase-org/world-universities-databases) — 10,239 records across 202 countries.
+
+Made with data from [ListBase.org](https://listbase.org) — Free Reference Tables & Lists
+
+## All Entries (192)
+
+- Abant Izzet Baysal University
+- Abdullah Gul University
+- Acibadem University
+- Adana Science and Technology University
+- Adiyaman University
+- Adnan Menderes University
+- Afyon Kocatepe University
+- Agri Ibrahim Cecen University
+- Ahi Evran University
+- Air Force Academy
+- Akdeniz University
+- Aksaray University
+- Alanya Alaaddin Keykubat University
+- Alanya Hamdullah Emin Pasa University
+- Amasya University
+- Anadolu University
+- Ankara Haci Bayram Veli University
+- Ankara Medipol University
+- Ankara Science University
+- Ankara Social Science University
+- Ankara University
+- Ankara Yildirim Beyazit University
+- Antalya Bilim University
+- Antalya International University
+- Ardahan University
+- Artvin Coruh University
+- Atatürk University
+- Atilim University
+- Avrasya University
+- Bahcesehir University
+- Balikesir University
+- Bandirma ONYEDI Eylul University
+- Bartin University
+- Baskent University
+- Batman University
+- Bayburt University
+- Beykent University
+- Bezmialem Vakif University
+- Bilecik University
+- Bilkent University
+- Bingol University
+- Biruni University
+- Bitlis Eren University
+- Bozok University
+- Boğaziçi University
+- Bulent Ecevit University
+- Bursa Technical University
+- Cag University
+- Canakkale (18th March) University
+- Cankaya University
+- Cankiri karatekin University
+- Celal Bayar University
+- Cukurova University
+- Cumhuriyet (Republik) University
+- Dicle (Tirgris) University
+- Dogus University
+- Dokuz Eylül University
+- Dumlupinar University
+- Duzce University
+- Ege University
+- Erciyes University
+- Erzincan Binali Yildirim University
+- Erzurum Technical University
+- Eskisehir Technical University
+- Fatih Sultan Mehmet University
+- Fenerbahce University
+- Firat (Euphrates) University
+- Galatasaray University
+- Gazi University Ankara
+- Gaziantep University
+- Gaziosmanpasa University
+- Gebze Institute of Technology
+- Gebze Technical University
+- Gedik University
+- Giresun University
+- Gulhane Military Medical Academy
+- Gumushane University
+- Hacettepe University
+- Hakkari University
+- Halic University
+- Harran University
+- Hasan Kalyoncu University
+- Health Sciences University
+- Hitit University
+- Igdir University
+- Inönü University
+- Isik University
+- Iskenderun Technical University
+- Istanbul 29 Mayis University
+- Istanbul Arel University
+- Istanbul Aydin University
+- Istanbul Bilgi University
+- Istanbul Esenyurt University
+- Istanbul Gelisim University
+- Istanbul Kemerburgaz University
+- Istanbul Kultur University
+- Istanbul Medeniyet University
+- Istanbul Medipol University
+- Istanbul Rumeli University
+- Istanbul Sabahattin Zaim University
+- Istanbul Technical University
+- Istanbul Ticaret University
+- Istanbul Topkapi University
+- Istanbul University
+- Istanbul Şehir University
+- Istinye University
+- Izmir Bakırçay University
+- Izmir Democracy University
+- Izmir Institute of Technology
+- Izmir Katip Celebi University
+- Izmir Tınaztepe University
+- Izmir University of Economics
+- Kadir Has University
+- Kafkas University
+- Kahramanmaras Sütcü Imam University
+- Karabuk University
+- Karadeniz Technical University
+- Karatay University
+- Kastamonu University
+- Kilis 7 Aralık University
+- Kirikkale University
+- Kirklareli University
+- Kocaeli University
+- Konya Gida Tarim University
+- Konya Technical University
+- Koç University
+- MEF University
+- Maltepe University
+- Mardin Artuklu University
+- Marmara University
+- Mehmet Akif Ersoy University
+- Mersin University
+- Middle East Technical University
+- Mimar Sinan Fine Arts University
+- Mimar Sinan University
+- Mugla Sitki Kocman University
+- Mus Alparslan University
+- Mustafa Kemal University
+- Namik Kemal University
+- Necmettin Erbakan University
+- Nevsehir Haci Bektas Veli University
+- Nigde Omer Halisdemir University
+- Nisantasi University
+- Nuh Naci Yazgan University
+- OSTIM Technical University
+- Okan University
+- Omer Halisdemir University
+- Ondokuz Mayis University Samsun
+- Ondokuz Mayıs University
+- Ordu University
+- Osmangazi University
+- Osmaniye Korkut Ata University
+- Ozyegin University
+- Pamukkale University
+- Piri Reis University
+- Recep Tayip Erdogan University
+- Sabanci University
+- Sakarya University
+- Sanko University
+- Selcuk University
+- Siirt University
+- Sinop University
+- Sirnak University
+- Suleyman Demirel University
+- TED University
+- Tarsus University
+- Tobb Economics and Technology University
+- Toros University
+- Trakya University
+- Tunceli University
+- Turkish Aeronautical Association University
+- Turkish Naval Academy
+- Türk Hava Kurumu Üniversitesi
+- Türkisch-Deutsche Universität
+- Ufuk University
+- Uludag University
+- University of Kyrenia
+- University of Turkish Aeronautical Association
+- Usak University
+- Uskudar University
+- Yalova University
+- Yasar University
+- Yeditepe University
+- Yeni Yuzyil University
+- Yildirim Beyazit University
+- Yildiz Technical University
+- Yuksek ihtisas University
+- Yüzüncü Yil (Centennial) University
+- Zonguldak Bulent Ecevit University
+- Zonguldak Karaelmas University
+- karamanoglu mehmet bey University
+- İzmir University of Economics
